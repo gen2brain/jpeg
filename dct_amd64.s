@@ -6,366 +6,114 @@
 
 // FDCT Constants (13-bit fixed point, constBits=13)
 DATA ·fix_0_298631336<>(SB)/4, $2446
-DATA ·fix_0_298631336<>+4(SB)/4, $2446
-DATA ·fix_0_298631336<>+8(SB)/4, $2446
-DATA ·fix_0_298631336<>+12(SB)/4, $2446
-DATA ·fix_0_298631336<>+16(SB)/4, $2446
-DATA ·fix_0_298631336<>+20(SB)/4, $2446
-DATA ·fix_0_298631336<>+24(SB)/4, $2446
-DATA ·fix_0_298631336<>+28(SB)/4, $2446
-GLOBL ·fix_0_298631336<>(SB), RODATA, $32
+GLOBL ·fix_0_298631336<>(SB), RODATA, $4
 
 DATA ·fix_0_390180644<>(SB)/4, $3196
-DATA ·fix_0_390180644<>+4(SB)/4, $3196
-DATA ·fix_0_390180644<>+8(SB)/4, $3196
-DATA ·fix_0_390180644<>+12(SB)/4, $3196
-DATA ·fix_0_390180644<>+16(SB)/4, $3196
-DATA ·fix_0_390180644<>+20(SB)/4, $3196
-DATA ·fix_0_390180644<>+24(SB)/4, $3196
-DATA ·fix_0_390180644<>+28(SB)/4, $3196
-GLOBL ·fix_0_390180644<>(SB), RODATA, $32
+GLOBL ·fix_0_390180644<>(SB), RODATA, $4
 
 DATA ·fix_0_541196100<>(SB)/4, $4433
-DATA ·fix_0_541196100<>+4(SB)/4, $4433
-DATA ·fix_0_541196100<>+8(SB)/4, $4433
-DATA ·fix_0_541196100<>+12(SB)/4, $4433
-DATA ·fix_0_541196100<>+16(SB)/4, $4433
-DATA ·fix_0_541196100<>+20(SB)/4, $4433
-DATA ·fix_0_541196100<>+24(SB)/4, $4433
-DATA ·fix_0_541196100<>+28(SB)/4, $4433
-GLOBL ·fix_0_541196100<>(SB), RODATA, $32
+GLOBL ·fix_0_541196100<>(SB), RODATA, $4
 
 DATA ·fix_0_765366865<>(SB)/4, $6270
-DATA ·fix_0_765366865<>+4(SB)/4, $6270
-DATA ·fix_0_765366865<>+8(SB)/4, $6270
-DATA ·fix_0_765366865<>+12(SB)/4, $6270
-DATA ·fix_0_765366865<>+16(SB)/4, $6270
-DATA ·fix_0_765366865<>+20(SB)/4, $6270
-DATA ·fix_0_765366865<>+24(SB)/4, $6270
-DATA ·fix_0_765366865<>+28(SB)/4, $6270
-GLOBL ·fix_0_765366865<>(SB), RODATA, $32
+GLOBL ·fix_0_765366865<>(SB), RODATA, $4
 
 DATA ·fix_0_899976223<>(SB)/4, $7373
-DATA ·fix_0_899976223<>+4(SB)/4, $7373
-DATA ·fix_0_899976223<>+8(SB)/4, $7373
-DATA ·fix_0_899976223<>+12(SB)/4, $7373
-DATA ·fix_0_899976223<>+16(SB)/4, $7373
-DATA ·fix_0_899976223<>+20(SB)/4, $7373
-DATA ·fix_0_899976223<>+24(SB)/4, $7373
-DATA ·fix_0_899976223<>+28(SB)/4, $7373
-GLOBL ·fix_0_899976223<>(SB), RODATA, $32
+GLOBL ·fix_0_899976223<>(SB), RODATA, $4
 
 DATA ·fix_1_175875602<>(SB)/4, $9633
-DATA ·fix_1_175875602<>+4(SB)/4, $9633
-DATA ·fix_1_175875602<>+8(SB)/4, $9633
-DATA ·fix_1_175875602<>+12(SB)/4, $9633
-DATA ·fix_1_175875602<>+16(SB)/4, $9633
-DATA ·fix_1_175875602<>+20(SB)/4, $9633
-DATA ·fix_1_175875602<>+24(SB)/4, $9633
-DATA ·fix_1_175875602<>+28(SB)/4, $9633
-GLOBL ·fix_1_175875602<>(SB), RODATA, $32
+GLOBL ·fix_1_175875602<>(SB), RODATA, $4
 
 DATA ·fix_1_501321110<>(SB)/4, $12299
-DATA ·fix_1_501321110<>+4(SB)/4, $12299
-DATA ·fix_1_501321110<>+8(SB)/4, $12299
-DATA ·fix_1_501321110<>+12(SB)/4, $12299
-DATA ·fix_1_501321110<>+16(SB)/4, $12299
-DATA ·fix_1_501321110<>+20(SB)/4, $12299
-DATA ·fix_1_501321110<>+24(SB)/4, $12299
-DATA ·fix_1_501321110<>+28(SB)/4, $12299
-GLOBL ·fix_1_501321110<>(SB), RODATA, $32
+GLOBL ·fix_1_501321110<>(SB), RODATA, $4
 
 DATA ·fix_1_847759065<>(SB)/4, $15137
-DATA ·fix_1_847759065<>+4(SB)/4, $15137
-DATA ·fix_1_847759065<>+8(SB)/4, $15137
-DATA ·fix_1_847759065<>+12(SB)/4, $15137
-DATA ·fix_1_847759065<>+16(SB)/4, $15137
-DATA ·fix_1_847759065<>+20(SB)/4, $15137
-DATA ·fix_1_847759065<>+24(SB)/4, $15137
-DATA ·fix_1_847759065<>+28(SB)/4, $15137
-GLOBL ·fix_1_847759065<>(SB), RODATA, $32
+GLOBL ·fix_1_847759065<>(SB), RODATA, $4
 
 DATA ·fix_1_961570560<>(SB)/4, $16069
-DATA ·fix_1_961570560<>+4(SB)/4, $16069
-DATA ·fix_1_961570560<>+8(SB)/4, $16069
-DATA ·fix_1_961570560<>+12(SB)/4, $16069
-DATA ·fix_1_961570560<>+16(SB)/4, $16069
-DATA ·fix_1_961570560<>+20(SB)/4, $16069
-DATA ·fix_1_961570560<>+24(SB)/4, $16069
-DATA ·fix_1_961570560<>+28(SB)/4, $16069
-GLOBL ·fix_1_961570560<>(SB), RODATA, $32
+GLOBL ·fix_1_961570560<>(SB), RODATA, $4
 
 DATA ·fix_2_053119869<>(SB)/4, $16819
-DATA ·fix_2_053119869<>+4(SB)/4, $16819
-DATA ·fix_2_053119869<>+8(SB)/4, $16819
-DATA ·fix_2_053119869<>+12(SB)/4, $16819
-DATA ·fix_2_053119869<>+16(SB)/4, $16819
-DATA ·fix_2_053119869<>+20(SB)/4, $16819
-DATA ·fix_2_053119869<>+24(SB)/4, $16819
-DATA ·fix_2_053119869<>+28(SB)/4, $16819
-GLOBL ·fix_2_053119869<>(SB), RODATA, $32
+GLOBL ·fix_2_053119869<>(SB), RODATA, $4
 
 DATA ·fix_2_562915447<>(SB)/4, $20995
-DATA ·fix_2_562915447<>+4(SB)/4, $20995
-DATA ·fix_2_562915447<>+8(SB)/4, $20995
-DATA ·fix_2_562915447<>+12(SB)/4, $20995
-DATA ·fix_2_562915447<>+16(SB)/4, $20995
-DATA ·fix_2_562915447<>+20(SB)/4, $20995
-DATA ·fix_2_562915447<>+24(SB)/4, $20995
-DATA ·fix_2_562915447<>+28(SB)/4, $20995
-GLOBL ·fix_2_562915447<>(SB), RODATA, $32
+GLOBL ·fix_2_562915447<>(SB), RODATA, $4
 
 DATA ·fix_3_072711026<>(SB)/4, $25172
-DATA ·fix_3_072711026<>+4(SB)/4, $25172
-DATA ·fix_3_072711026<>+8(SB)/4, $25172
-DATA ·fix_3_072711026<>+12(SB)/4, $25172
-DATA ·fix_3_072711026<>+16(SB)/4, $25172
-DATA ·fix_3_072711026<>+20(SB)/4, $25172
-DATA ·fix_3_072711026<>+24(SB)/4, $25172
-DATA ·fix_3_072711026<>+28(SB)/4, $25172
-GLOBL ·fix_3_072711026<>(SB), RODATA, $32
+GLOBL ·fix_3_072711026<>(SB), RODATA, $4
 
 DATA ·fix_neg_0_390180644<>(SB)/4, $-3196
-DATA ·fix_neg_0_390180644<>+4(SB)/4, $-3196
-DATA ·fix_neg_0_390180644<>+8(SB)/4, $-3196
-DATA ·fix_neg_0_390180644<>+12(SB)/4, $-3196
-DATA ·fix_neg_0_390180644<>+16(SB)/4, $-3196
-DATA ·fix_neg_0_390180644<>+20(SB)/4, $-3196
-DATA ·fix_neg_0_390180644<>+24(SB)/4, $-3196
-DATA ·fix_neg_0_390180644<>+28(SB)/4, $-3196
-GLOBL ·fix_neg_0_390180644<>(SB), RODATA, $32
+GLOBL ·fix_neg_0_390180644<>(SB), RODATA, $4
 
 DATA ·fix_neg_0_899976223<>(SB)/4, $-7373
-DATA ·fix_neg_0_899976223<>+4(SB)/4, $-7373
-DATA ·fix_neg_0_899976223<>+8(SB)/4, $-7373
-DATA ·fix_neg_0_899976223<>+12(SB)/4, $-7373
-DATA ·fix_neg_0_899976223<>+16(SB)/4, $-7373
-DATA ·fix_neg_0_899976223<>+20(SB)/4, $-7373
-DATA ·fix_neg_0_899976223<>+24(SB)/4, $-7373
-DATA ·fix_neg_0_899976223<>+28(SB)/4, $-7373
-GLOBL ·fix_neg_0_899976223<>(SB), RODATA, $32
+GLOBL ·fix_neg_0_899976223<>(SB), RODATA, $4
 
 DATA ·fix_neg_1_961570560<>(SB)/4, $-16069
-DATA ·fix_neg_1_961570560<>+4(SB)/4, $-16069
-DATA ·fix_neg_1_961570560<>+8(SB)/4, $-16069
-DATA ·fix_neg_1_961570560<>+12(SB)/4, $-16069
-DATA ·fix_neg_1_961570560<>+16(SB)/4, $-16069
-DATA ·fix_neg_1_961570560<>+20(SB)/4, $-16069
-DATA ·fix_neg_1_961570560<>+24(SB)/4, $-16069
-DATA ·fix_neg_1_961570560<>+28(SB)/4, $-16069
-GLOBL ·fix_neg_1_961570560<>(SB), RODATA, $32
+GLOBL ·fix_neg_1_961570560<>(SB), RODATA, $4
 
 DATA ·fix_neg_2_562915447<>(SB)/4, $-20995
-DATA ·fix_neg_2_562915447<>+4(SB)/4, $-20995
-DATA ·fix_neg_2_562915447<>+8(SB)/4, $-20995
-DATA ·fix_neg_2_562915447<>+12(SB)/4, $-20995
-DATA ·fix_neg_2_562915447<>+16(SB)/4, $-20995
-DATA ·fix_neg_2_562915447<>+20(SB)/4, $-20995
-DATA ·fix_neg_2_562915447<>+24(SB)/4, $-20995
-DATA ·fix_neg_2_562915447<>+28(SB)/4, $-20995
-GLOBL ·fix_neg_2_562915447<>(SB), RODATA, $32
+GLOBL ·fix_neg_2_562915447<>(SB), RODATA, $4
 
 // IDCT Constants (11-bit fixed point)
 DATA ·w1<>(SB)/4, $2841
-DATA ·w1<>+4(SB)/4, $2841
-DATA ·w1<>+8(SB)/4, $2841
-DATA ·w1<>+12(SB)/4, $2841
-DATA ·w1<>+16(SB)/4, $2841
-DATA ·w1<>+20(SB)/4, $2841
-DATA ·w1<>+24(SB)/4, $2841
-DATA ·w1<>+28(SB)/4, $2841
-GLOBL ·w1<>(SB), RODATA, $32
+GLOBL ·w1<>(SB), RODATA, $4
 
 DATA ·w2<>(SB)/4, $2676
-DATA ·w2<>+4(SB)/4, $2676
-DATA ·w2<>+8(SB)/4, $2676
-DATA ·w2<>+12(SB)/4, $2676
-DATA ·w2<>+16(SB)/4, $2676
-DATA ·w2<>+20(SB)/4, $2676
-DATA ·w2<>+24(SB)/4, $2676
-DATA ·w2<>+28(SB)/4, $2676
-GLOBL ·w2<>(SB), RODATA, $32
+GLOBL ·w2<>(SB), RODATA, $4
 
 DATA ·w3<>(SB)/4, $2408
-DATA ·w3<>+4(SB)/4, $2408
-DATA ·w3<>+8(SB)/4, $2408
-DATA ·w3<>+12(SB)/4, $2408
-DATA ·w3<>+16(SB)/4, $2408
-DATA ·w3<>+20(SB)/4, $2408
-DATA ·w3<>+24(SB)/4, $2408
-DATA ·w3<>+28(SB)/4, $2408
-GLOBL ·w3<>(SB), RODATA, $32
+GLOBL ·w3<>(SB), RODATA, $4
 
 DATA ·w5<>(SB)/4, $1609
-DATA ·w5<>+4(SB)/4, $1609
-DATA ·w5<>+8(SB)/4, $1609
-DATA ·w5<>+12(SB)/4, $1609
-DATA ·w5<>+16(SB)/4, $1609
-DATA ·w5<>+20(SB)/4, $1609
-DATA ·w5<>+24(SB)/4, $1609
-DATA ·w5<>+28(SB)/4, $1609
-GLOBL ·w5<>(SB), RODATA, $32
+GLOBL ·w5<>(SB), RODATA, $4
 
 DATA ·w6<>(SB)/4, $1108
-DATA ·w6<>+4(SB)/4, $1108
-DATA ·w6<>+8(SB)/4, $1108
-DATA ·w6<>+12(SB)/4, $1108
-DATA ·w6<>+16(SB)/4, $1108
-DATA ·w6<>+20(SB)/4, $1108
-DATA ·w6<>+24(SB)/4, $1108
-DATA ·w6<>+28(SB)/4, $1108
-GLOBL ·w6<>(SB), RODATA, $32
+GLOBL ·w6<>(SB), RODATA, $4
 
 DATA ·w7<>(SB)/4, $565
-DATA ·w7<>+4(SB)/4, $565
-DATA ·w7<>+8(SB)/4, $565
-DATA ·w7<>+12(SB)/4, $565
-DATA ·w7<>+16(SB)/4, $565
-DATA ·w7<>+20(SB)/4, $565
-DATA ·w7<>+24(SB)/4, $565
-DATA ·w7<>+28(SB)/4, $565
-GLOBL ·w7<>(SB), RODATA, $32
+GLOBL ·w7<>(SB), RODATA, $4
 
 DATA ·w1_plus_w7<>(SB)/4, $3406
-DATA ·w1_plus_w7<>+4(SB)/4, $3406
-DATA ·w1_plus_w7<>+8(SB)/4, $3406
-DATA ·w1_plus_w7<>+12(SB)/4, $3406
-DATA ·w1_plus_w7<>+16(SB)/4, $3406
-DATA ·w1_plus_w7<>+20(SB)/4, $3406
-DATA ·w1_plus_w7<>+24(SB)/4, $3406
-DATA ·w1_plus_w7<>+28(SB)/4, $3406
-GLOBL ·w1_plus_w7<>(SB), RODATA, $32
+GLOBL ·w1_plus_w7<>(SB), RODATA, $4
 
 DATA ·w1_minus_w7<>(SB)/4, $2276
-DATA ·w1_minus_w7<>+4(SB)/4, $2276
-DATA ·w1_minus_w7<>+8(SB)/4, $2276
-DATA ·w1_minus_w7<>+12(SB)/4, $2276
-DATA ·w1_minus_w7<>+16(SB)/4, $2276
-DATA ·w1_minus_w7<>+20(SB)/4, $2276
-DATA ·w1_minus_w7<>+24(SB)/4, $2276
-DATA ·w1_minus_w7<>+28(SB)/4, $2276
-GLOBL ·w1_minus_w7<>(SB), RODATA, $32
+GLOBL ·w1_minus_w7<>(SB), RODATA, $4
 
 DATA ·w2_plus_w6<>(SB)/4, $3784
-DATA ·w2_plus_w6<>+4(SB)/4, $3784
-DATA ·w2_plus_w6<>+8(SB)/4, $3784
-DATA ·w2_plus_w6<>+12(SB)/4, $3784
-DATA ·w2_plus_w6<>+16(SB)/4, $3784
-DATA ·w2_plus_w6<>+20(SB)/4, $3784
-DATA ·w2_plus_w6<>+24(SB)/4, $3784
-DATA ·w2_plus_w6<>+28(SB)/4, $3784
-GLOBL ·w2_plus_w6<>(SB), RODATA, $32
+GLOBL ·w2_plus_w6<>(SB), RODATA, $4
 
 DATA ·w2_minus_w6<>(SB)/4, $1568
-DATA ·w2_minus_w6<>+4(SB)/4, $1568
-DATA ·w2_minus_w6<>+8(SB)/4, $1568
-DATA ·w2_minus_w6<>+12(SB)/4, $1568
-DATA ·w2_minus_w6<>+16(SB)/4, $1568
-DATA ·w2_minus_w6<>+20(SB)/4, $1568
-DATA ·w2_minus_w6<>+24(SB)/4, $1568
-DATA ·w2_minus_w6<>+28(SB)/4, $1568
-GLOBL ·w2_minus_w6<>(SB), RODATA, $32
+GLOBL ·w2_minus_w6<>(SB), RODATA, $4
 
 DATA ·w3_plus_w5<>(SB)/4, $4017
-DATA ·w3_plus_w5<>+4(SB)/4, $4017
-DATA ·w3_plus_w5<>+8(SB)/4, $4017
-DATA ·w3_plus_w5<>+12(SB)/4, $4017
-DATA ·w3_plus_w5<>+16(SB)/4, $4017
-DATA ·w3_plus_w5<>+20(SB)/4, $4017
-DATA ·w3_plus_w5<>+24(SB)/4, $4017
-DATA ·w3_plus_w5<>+28(SB)/4, $4017
-GLOBL ·w3_plus_w5<>(SB), RODATA, $32
+GLOBL ·w3_plus_w5<>(SB), RODATA, $4
 
 DATA ·w3_minus_w5<>(SB)/4, $799
-DATA ·w3_minus_w5<>+4(SB)/4, $799
-DATA ·w3_minus_w5<>+8(SB)/4, $799
-DATA ·w3_minus_w5<>+12(SB)/4, $799
-DATA ·w3_minus_w5<>+16(SB)/4, $799
-DATA ·w3_minus_w5<>+20(SB)/4, $799
-DATA ·w3_minus_w5<>+24(SB)/4, $799
-DATA ·w3_minus_w5<>+28(SB)/4, $799
-GLOBL ·w3_minus_w5<>(SB), RODATA, $32
+GLOBL ·w3_minus_w5<>(SB), RODATA, $4
 
 DATA ·r2<>(SB)/4, $181
-DATA ·r2<>+4(SB)/4, $181
-DATA ·r2<>+8(SB)/4, $181
-DATA ·r2<>+12(SB)/4, $181
-DATA ·r2<>+16(SB)/4, $181
-DATA ·r2<>+20(SB)/4, $181
-DATA ·r2<>+24(SB)/4, $181
-DATA ·r2<>+28(SB)/4, $181
-GLOBL ·r2<>(SB), RODATA, $32
+GLOBL ·r2<>(SB), RODATA, $4
 
 // Common Constants
 DATA ·const_2<>(SB)/4, $2
-DATA ·const_2<>+4(SB)/4, $2
-DATA ·const_2<>+8(SB)/4, $2
-DATA ·const_2<>+12(SB)/4, $2
-DATA ·const_2<>+16(SB)/4, $2
-DATA ·const_2<>+20(SB)/4, $2
-DATA ·const_2<>+24(SB)/4, $2
-DATA ·const_2<>+28(SB)/4, $2
-GLOBL ·const_2<>(SB), RODATA, $32
+GLOBL ·const_2<>(SB), RODATA, $4
 
 DATA ·const_4<>(SB)/4, $4
-DATA ·const_4<>+4(SB)/4, $4
-DATA ·const_4<>+8(SB)/4, $4
-DATA ·const_4<>+12(SB)/4, $4
-DATA ·const_4<>+16(SB)/4, $4
-DATA ·const_4<>+20(SB)/4, $4
-DATA ·const_4<>+24(SB)/4, $4
-DATA ·const_4<>+28(SB)/4, $4
-GLOBL ·const_4<>(SB), RODATA, $32
+GLOBL ·const_4<>(SB), RODATA, $4
 
 DATA ·const_128<>(SB)/4, $128
-DATA ·const_128<>+4(SB)/4, $128
-DATA ·const_128<>+8(SB)/4, $128
-DATA ·const_128<>+12(SB)/4, $128
-DATA ·const_128<>+16(SB)/4, $128
-DATA ·const_128<>+20(SB)/4, $128
-DATA ·const_128<>+24(SB)/4, $128
-DATA ·const_128<>+28(SB)/4, $128
-GLOBL ·const_128<>(SB), RODATA, $32
+GLOBL ·const_128<>(SB), RODATA, $4
 
 DATA ·const_1024<>(SB)/4, $1024
-DATA ·const_1024<>+4(SB)/4, $1024
-DATA ·const_1024<>+8(SB)/4, $1024
-DATA ·const_1024<>+12(SB)/4, $1024
-DATA ·const_1024<>+16(SB)/4, $1024
-DATA ·const_1024<>+20(SB)/4, $1024
-DATA ·const_1024<>+24(SB)/4, $1024
-DATA ·const_1024<>+28(SB)/4, $1024
-GLOBL ·const_1024<>(SB), RODATA, $32
+GLOBL ·const_1024<>(SB), RODATA, $4
 
 DATA ·const_8192<>(SB)/4, $8192
-DATA ·const_8192<>+4(SB)/4, $8192
-DATA ·const_8192<>+8(SB)/4, $8192
-DATA ·const_8192<>+12(SB)/4, $8192
-DATA ·const_8192<>+16(SB)/4, $8192
-DATA ·const_8192<>+20(SB)/4, $8192
-DATA ·const_8192<>+24(SB)/4, $8192
-DATA ·const_8192<>+28(SB)/4, $8192
-GLOBL ·const_8192<>(SB), RODATA, $32
+GLOBL ·const_8192<>(SB), RODATA, $4
 
 DATA ·const_16384<>(SB)/4, $16384
-DATA ·const_16384<>+4(SB)/4, $16384
-DATA ·const_16384<>+8(SB)/4, $16384
-DATA ·const_16384<>+12(SB)/4, $16384
-DATA ·const_16384<>+16(SB)/4, $16384
-DATA ·const_16384<>+20(SB)/4, $16384
-DATA ·const_16384<>+24(SB)/4, $16384
-DATA ·const_16384<>+28(SB)/4, $16384
-GLOBL ·const_16384<>(SB), RODATA, $32
+GLOBL ·const_16384<>(SB), RODATA, $4
 
 DATA ·zero<>(SB)/4, $0
-DATA ·zero<>+4(SB)/4, $0
-DATA ·zero<>+8(SB)/4, $0
-DATA ·zero<>+12(SB)/4, $0
-DATA ·zero<>+16(SB)/4, $0
-DATA ·zero<>+20(SB)/4, $0
-DATA ·zero<>+24(SB)/4, $0
-DATA ·zero<>+28(SB)/4, $0
-GLOBL ·zero<>(SB), RODATA, $32
+GLOBL ·zero<>(SB), RODATA, $4
 
 // Transpose 8x8 block in memory at DI
 TEXT ·transpose8x8AVX2(SB), NOSPLIT, $0
@@ -439,20 +187,25 @@ TEXT ·fdctRowCoreAVX2(SB), NOSPLIT, $0
 	VPSLLD $2, Y4, Y4 // s[4]
 
 	// Then s[0] = (tmp10 + tmp11 - 8*centerJSample) << pass1Bits
-	VPADDD Y0, Y1, Y8                // tmp10 + tmp11
-	VPSUBD ·const_1024<>(SB), Y8, Y8
-	VPSLLD $2, Y8, Y0                // s[0]
+	VPADDD       Y0, Y1, Y8            // tmp10 + tmp11
+	VPBROADCASTD ·const_1024<>(SB), Y5
+	VPSUBD       Y5, Y8, Y8
+	VPSLLD       $2, Y8, Y0            // s[0]
 
 	// Stage 4: Compute s[2] and s[6]
-	VPADDD  Y2, Y3, Y5                     // tmp12 + tmp13
-	VPMULLD ·fix_0_541196100<>(SB), Y5, Y5 // z1 = (tmp12 + tmp13) * fix_0_541196100
-	VPADDD  ·const_1024<>(SB), Y5, Y5      // z1 + (1 << 10)
-	VPMULLD ·fix_0_765366865<>(SB), Y2, Y6 // tmp12 * fix_0_765366865
-	VPADDD  Y5, Y6, Y6
-	VPSRAD  $11, Y6, Y2                    // s[2] = (z1 + tmp12 * fix_0_765366865) >> 11
-	VPMULLD ·fix_1_847759065<>(SB), Y3, Y7 // tmp13 * fix_1_847759065
-	VPSUBD  Y7, Y5, Y7
-	VPSRAD  $11, Y7, Y6                    // s[6] = (z1 - tmp13 * fix_1_847759065) >> 11
+	VPADDD       Y2, Y3, Y5                 // tmp12 + tmp13
+	VPBROADCASTD ·fix_0_541196100<>(SB), Y8
+	VPMULLD      Y8, Y5, Y5                 // z1
+	VPBROADCASTD ·const_1024<>(SB), Y8
+	VPADDD       Y8, Y5, Y5
+	VPBROADCASTD ·fix_0_765366865<>(SB), Y8
+	VPMULLD      Y8, Y2, Y6
+	VPADDD       Y5, Y6, Y6
+	VPSRAD       $11, Y6, Y2                // s[2]
+	VPBROADCASTD ·fix_1_847759065<>(SB), Y8
+	VPMULLD      Y8, Y3, Y7
+	VPSUBD       Y7, Y5, Y7
+	VPSRAD       $11, Y7, Y6                // s[6]
 
 	// Stage 5: Prepare for odd coefficients
 	VMOVDQA Y9, Y1  // tmp0
@@ -466,19 +219,29 @@ TEXT ·fdctRowCoreAVX2(SB), NOSPLIT, $0
 	VPADDD Y3, Y7, Y14 // tmp13 = tmp1 + tmp3
 
 	// Stage 6: Compute z1 for odd coefficients
-	VPADDD  Y12, Y14, Y9
-	VPMULLD ·fix_1_175875602<>(SB), Y9, Y9
-	VPADDD  ·const_1024<>(SB), Y9, Y9      // z1 + (1 << 10)
+	VPADDD       Y12, Y14, Y9
+	VPBROADCASTD ·fix_1_175875602<>(SB), Y11
+	VPMULLD      Y11, Y9, Y9
+	VPBROADCASTD ·const_1024<>(SB), Y11
+	VPADDD       Y11, Y9, Y9
 
 	// Stage 7: Apply multipliers
-	VPMULLD ·fix_1_501321110<>(SB), Y1, Y1
-	VPMULLD ·fix_3_072711026<>(SB), Y3, Y3
-	VPMULLD ·fix_2_053119869<>(SB), Y5, Y5
-	VPMULLD ·fix_0_298631336<>(SB), Y7, Y7
-	VPMULLD ·fix_neg_0_899976223<>(SB), Y8, Y8
-	VPMULLD ·fix_neg_2_562915447<>(SB), Y10, Y10
-	VPMULLD ·fix_neg_0_390180644<>(SB), Y12, Y12
-	VPMULLD ·fix_neg_1_961570560<>(SB), Y14, Y14
+	VPBROADCASTD ·fix_1_501321110<>(SB), Y11
+	VPMULLD      Y11, Y1, Y1
+	VPBROADCASTD ·fix_3_072711026<>(SB), Y11
+	VPMULLD      Y11, Y3, Y3
+	VPBROADCASTD ·fix_2_053119869<>(SB), Y11
+	VPMULLD      Y11, Y5, Y5
+	VPBROADCASTD ·fix_0_298631336<>(SB), Y11
+	VPMULLD      Y11, Y7, Y7
+	VPBROADCASTD ·fix_neg_0_899976223<>(SB), Y11
+	VPMULLD      Y11, Y8, Y8
+	VPBROADCASTD ·fix_neg_2_562915447<>(SB), Y11
+	VPMULLD      Y11, Y10, Y10
+	VPBROADCASTD ·fix_neg_0_390180644<>(SB), Y11
+	VPMULLD      Y11, Y12, Y12
+	VPBROADCASTD ·fix_neg_1_961570560<>(SB), Y11
+	VPMULLD      Y11, Y14, Y14
 
 	// Stage 8: Combine terms
 	VPADDD Y9, Y12, Y12
@@ -516,11 +279,12 @@ TEXT ·fdctColCoreAVX2(SB), NOSPLIT, $0
 	VPSUBD Y4, Y3, Y15 // tmp4 = x3 - x4
 
 	// Stage 2: Compute tmp10 to tmp13
-	VPADDD Y8, Y14, Y0            // tmp10 = tmp0 + tmp3
-	VPADDD ·const_2<>(SB), Y0, Y0 // tmp10 += 2 (rounding)
-	VPADDD Y10, Y12, Y1           // tmp11 = tmp1 + tmp2
-	VPSUBD Y14, Y8, Y2            // tmp12 = tmp0 - tmp3
-	VPSUBD Y12, Y10, Y3           // tmp13 = tmp1 - tmp2
+	VPADDD       Y8, Y14, Y0        // tmp10 = tmp0 + tmp3
+	VPBROADCASTD ·const_2<>(SB), Y4
+	VPADDD       Y4, Y0, Y0         // tmp10 += 2 (rounding)
+	VPADDD       Y10, Y12, Y1       // tmp11 = tmp1 + tmp2
+	VPSUBD       Y14, Y8, Y2        // tmp12 = tmp0 - tmp3
+	VPSUBD       Y12, Y10, Y3       // tmp13 = tmp1 - tmp2
 
 	// Stage 3: Compute even coefficients s[0], s[4]
 	// First s[4] = (tmp10 - tmp11) >> pass1Bits
@@ -532,15 +296,19 @@ TEXT ·fdctColCoreAVX2(SB), NOSPLIT, $0
 	VPSRAD $2, Y8, Y0 // s[0]
 
 	// Stage 4: Compute s[2] and s[6]
-	VPADDD  Y2, Y3, Y5                     // tmp12 + tmp13
-	VPMULLD ·fix_0_541196100<>(SB), Y5, Y5
-	VPADDD  ·const_16384<>(SB), Y5, Y5     // z1 + (1 << 14)
-	VPMULLD ·fix_0_765366865<>(SB), Y2, Y6
-	VPADDD  Y5, Y6, Y6
-	VPSRAD  $15, Y6, Y2                    // s[2] = (z1 + tmp12 * fix_0_765366865) >> 15
-	VPMULLD ·fix_1_847759065<>(SB), Y3, Y7
-	VPSUBD  Y7, Y5, Y7
-	VPSRAD  $15, Y7, Y6                    // s[6] = (z1 - tmp13 * fix_1_847759065) >> 15
+	VPADDD       Y2, Y3, Y5                 // tmp12 + tmp13
+	VPBROADCASTD ·fix_0_541196100<>(SB), Y8
+	VPMULLD      Y8, Y5, Y5
+	VPBROADCASTD ·const_16384<>(SB), Y8
+	VPADDD       Y8, Y5, Y5                 // z1 + (1 << 14)
+	VPBROADCASTD ·fix_0_765366865<>(SB), Y8
+	VPMULLD      Y8, Y2, Y6
+	VPADDD       Y5, Y6, Y6
+	VPSRAD       $15, Y6, Y2                // s[2]
+	VPBROADCASTD ·fix_1_847759065<>(SB), Y8
+	VPMULLD      Y8, Y3, Y7
+	VPSUBD       Y7, Y5, Y7
+	VPSRAD       $15, Y7, Y6                // s[6]
 
 	// Stage 5: Prepare for odd coefficients
 	VMOVDQA Y9, Y1  // tmp0
@@ -554,19 +322,29 @@ TEXT ·fdctColCoreAVX2(SB), NOSPLIT, $0
 	VPADDD Y3, Y7, Y14 // tmp13 = tmp1 + tmp3
 
 	// Stage 6: Compute z1 for odd coefficients
-	VPADDD  Y12, Y14, Y9
-	VPMULLD ·fix_1_175875602<>(SB), Y9, Y9
-	VPADDD  ·const_16384<>(SB), Y9, Y9     // z1 + (1 << 14)
+	VPADDD       Y12, Y14, Y9
+	VPBROADCASTD ·fix_1_175875602<>(SB), Y11
+	VPMULLD      Y11, Y9, Y9
+	VPBROADCASTD ·const_16384<>(SB), Y11
+	VPADDD       Y11, Y9, Y9                 // z1 + (1 << 14)
 
 	// Stage 7: Apply multipliers
-	VPMULLD ·fix_1_501321110<>(SB), Y1, Y1
-	VPMULLD ·fix_3_072711026<>(SB), Y3, Y3
-	VPMULLD ·fix_2_053119869<>(SB), Y5, Y5
-	VPMULLD ·fix_0_298631336<>(SB), Y7, Y7
-	VPMULLD ·fix_neg_0_899976223<>(SB), Y8, Y8
-	VPMULLD ·fix_neg_2_562915447<>(SB), Y10, Y10
-	VPMULLD ·fix_neg_0_390180644<>(SB), Y12, Y12
-	VPMULLD ·fix_neg_1_961570560<>(SB), Y14, Y14
+	VPBROADCASTD ·fix_1_501321110<>(SB), Y11
+	VPMULLD      Y11, Y1, Y1
+	VPBROADCASTD ·fix_3_072711026<>(SB), Y11
+	VPMULLD      Y11, Y3, Y3
+	VPBROADCASTD ·fix_2_053119869<>(SB), Y11
+	VPMULLD      Y11, Y5, Y5
+	VPBROADCASTD ·fix_0_298631336<>(SB), Y11
+	VPMULLD      Y11, Y7, Y7
+	VPBROADCASTD ·fix_neg_0_899976223<>(SB), Y11
+	VPMULLD      Y11, Y8, Y8
+	VPBROADCASTD ·fix_neg_2_562915447<>(SB), Y11
+	VPMULLD      Y11, Y10, Y10
+	VPBROADCASTD ·fix_neg_0_390180644<>(SB), Y11
+	VPMULLD      Y11, Y12, Y12
+	VPBROADCASTD ·fix_neg_1_961570560<>(SB), Y11
+	VPMULLD      Y11, Y14, Y14
 
 	// Stage 8: Combine terms
 	VPADDD Y9, Y12, Y12
@@ -659,23 +437,23 @@ nilPointer:
 // 1D IDCT core for rows (input in Y0-Y7, output in Y0-Y7)
 TEXT ·idctRowCoreAVX2(SB), NOSPLIT, $0
 	// Check if all AC coefficients are zero
-	VMOVDQA   ·zero<>(SB), Y15
-	VPCMPEQD  Y1, Y15, Y8
-	VPCMPEQD  Y2, Y15, Y9
-	VPCMPEQD  Y3, Y15, Y10
-	VPCMPEQD  Y4, Y15, Y11
-	VPCMPEQD  Y5, Y15, Y12
-	VPCMPEQD  Y6, Y15, Y13
-	VPCMPEQD  Y7, Y15, Y14
-	VPAND     Y8, Y9, Y8
-	VPAND     Y8, Y10, Y8
-	VPAND     Y8, Y11, Y8
-	VPAND     Y8, Y12, Y8
-	VPAND     Y8, Y13, Y8
-	VPAND     Y8, Y14, Y8
-	VPMOVMSKB Y8, AX
-	CMPQ      AX, $0xFFFFFFFF
-	JNE       full_idct_row
+	VPBROADCASTD ·zero<>(SB), Y15
+	VPCMPEQD     Y1, Y15, Y8
+	VPCMPEQD     Y2, Y15, Y9
+	VPCMPEQD     Y3, Y15, Y10
+	VPCMPEQD     Y4, Y15, Y11
+	VPCMPEQD     Y5, Y15, Y12
+	VPCMPEQD     Y6, Y15, Y13
+	VPCMPEQD     Y7, Y15, Y14
+	VPAND        Y8, Y9, Y8
+	VPAND        Y8, Y10, Y8
+	VPAND        Y8, Y11, Y8
+	VPAND        Y8, Y12, Y8
+	VPAND        Y8, Y13, Y8
+	VPAND        Y8, Y14, Y8
+	VPMOVMSKB    Y8, AX
+	CMPQ         AX, $0xFFFFFFFF
+	JNE          full_idct_row
 
 	// Fast path: DC only
 	VPSLLD  $3, Y0, Y0
@@ -690,44 +468,54 @@ TEXT ·idctRowCoreAVX2(SB), NOSPLIT, $0
 
 full_idct_row:
 	// Prescale
-	VPSLLD  $11, Y0, Y8              // x0 = s[0] << 11
-	VPADDD  ·const_128<>(SB), Y8, Y8
-	VPSLLD  $11, Y4, Y9              // x1 = s[4] << 11
-	VMOVDQA Y6, Y10                  // x2 = s[6]
-	VMOVDQA Y2, Y11                  // x3 = s[2]
-	VMOVDQA Y1, Y12                  // x4 = s[1]
-	VMOVDQA Y7, Y13                  // x5 = s[7]
-	VMOVDQA Y5, Y14                  // x6 = s[5]
-	VMOVDQA Y3, Y15                  // x7 = s[3]
+	VPSLLD       $11, Y0, Y8          // x0 = s[0] << 11
+	VPBROADCASTD ·const_128<>(SB), Y0
+	VPADDD       Y0, Y8, Y8
+	VPSLLD       $11, Y4, Y9          // x1 = s[4] << 11
+	VMOVDQA      Y6, Y10              // x2 = s[6]
+	VMOVDQA      Y2, Y11              // x3 = s[2]
+	VMOVDQA      Y1, Y12              // x4 = s[1]
+	VMOVDQA      Y7, Y13              // x5 = s[7]
+	VMOVDQA      Y5, Y14              // x6 = s[5]
+	VMOVDQA      Y3, Y15              // x7 = s[3]
 
 	// Stage 1
-	VPADDD  Y12, Y13, Y0
-	VPMULLD ·w7<>(SB), Y0, Y0
-	VPMULLD ·w1_minus_w7<>(SB), Y12, Y1
-	VPADDD  Y0, Y1, Y12                 // x4
-	VPMULLD ·w1_plus_w7<>(SB), Y13, Y1
-	VPSUBD  Y1, Y0, Y13                 // x5
+	VPADDD       Y12, Y13, Y0
+	VPBROADCASTD ·w7<>(SB), Y1
+	VPMULLD      Y1, Y0, Y0
+	VPBROADCASTD ·w1_minus_w7<>(SB), Y1
+	VPMULLD      Y1, Y12, Y1
+	VPADDD       Y0, Y1, Y12            // x4
+	VPBROADCASTD ·w1_plus_w7<>(SB), Y1
+	VPMULLD      Y1, Y13, Y1
+	VPSUBD       Y1, Y0, Y13            // x5
 
-	VPADDD  Y14, Y15, Y0
-	VPMULLD ·w3<>(SB), Y0, Y0
-	VPMULLD ·w3_minus_w5<>(SB), Y14, Y1
-	VPSUBD  Y1, Y0, Y14                 // x6
-	VPMULLD ·w3_plus_w5<>(SB), Y15, Y1
-	VPSUBD  Y1, Y0, Y15                 // x7
+	VPADDD       Y14, Y15, Y0
+	VPBROADCASTD ·w3<>(SB), Y1
+	VPMULLD      Y1, Y0, Y0
+	VPBROADCASTD ·w3_minus_w5<>(SB), Y1
+	VPMULLD      Y1, Y14, Y1
+	VPSUBD       Y1, Y0, Y14            // x6
+	VPBROADCASTD ·w3_plus_w5<>(SB), Y1
+	VPMULLD      Y1, Y15, Y1
+	VPSUBD       Y1, Y0, Y15            // x7
 
 	// Stage 2
-	VPADDD  Y8, Y9, Y0                  // x8 = x0 + x1
-	VPSUBD  Y9, Y8, Y8                  // x0 = x0 - x1
-	VPADDD  Y11, Y10, Y1
-	VPMULLD ·w6<>(SB), Y1, Y1
-	VPMULLD ·w2_plus_w6<>(SB), Y10, Y2
-	VPSUBD  Y2, Y1, Y10                 // x2
-	VPMULLD ·w2_minus_w6<>(SB), Y11, Y2
-	VPADDD  Y1, Y2, Y11                 // x3
-	VPADDD  Y12, Y14, Y1                // x1 = x4 + x6
-	VPSUBD  Y14, Y12, Y2                // x4 = x4 - x6
-	VPADDD  Y13, Y15, Y3                // x6 = x5 + x7
-	VPSUBD  Y15, Y13, Y4                // x5 = x5 - x7
+	VPADDD       Y8, Y9, Y0             // x8 = x0 + x1
+	VPSUBD       Y9, Y8, Y8             // x0 = x0 - x1
+	VPADDD       Y11, Y10, Y1
+	VPBROADCASTD ·w6<>(SB), Y2
+	VPMULLD      Y2, Y1, Y1
+	VPBROADCASTD ·w2_plus_w6<>(SB), Y2
+	VPMULLD      Y2, Y10, Y2
+	VPSUBD       Y2, Y1, Y10            // x2
+	VPBROADCASTD ·w2_minus_w6<>(SB), Y2
+	VPMULLD      Y2, Y11, Y2
+	VPADDD       Y1, Y2, Y11            // x3
+	VPADDD       Y12, Y14, Y1           // x1 = x4 + x6
+	VPSUBD       Y14, Y12, Y2           // x4 = x4 - x6
+	VPADDD       Y13, Y15, Y3           // x6 = x5 + x7
+	VPSUBD       Y15, Y13, Y4           // x5 = x5 - x7
 
 	// Stage 3
 	VPADDD Y0, Y11, Y5 // x7 = x8 + x3
@@ -735,14 +523,18 @@ full_idct_row:
 	VPADDD Y8, Y10, Y7 // x3 = x0 + x2
 	VPSUBD Y10, Y8, Y8 // x0 = x0 - x2
 
-	VPADDD  Y2, Y4, Y9
-	VPMULLD ·r2<>(SB), Y9, Y9
-	VPADDD  ·const_128<>(SB), Y9, Y9
-	VPSRAD  $8, Y9, Y10              // x2 = (r2 * (x4 + x5) + 128) >> 8
-	VPSUBD  Y4, Y2, Y9
-	VPMULLD ·r2<>(SB), Y9, Y9
-	VPADDD  ·const_128<>(SB), Y9, Y9
-	VPSRAD  $8, Y9, Y11              // x4 = (r2 * (x4 - x5) + 128) >> 8
+	VPADDD       Y2, Y4, Y9
+	VPBROADCASTD ·r2<>(SB), Y10
+	VPMULLD      Y10, Y9, Y9
+	VPBROADCASTD ·const_128<>(SB), Y10
+	VPADDD       Y10, Y9, Y9
+	VPSRAD       $8, Y9, Y10           // x2 = (r2 * (x4 + x5) + 128) >> 8
+	VPSUBD       Y4, Y2, Y9
+	VPBROADCASTD ·r2<>(SB), Y0
+	VPMULLD      Y0, Y9, Y9
+	VPBROADCASTD ·const_128<>(SB), Y0
+	VPADDD       Y0, Y9, Y9
+	VPSRAD       $8, Y9, Y11           // x4 = (r2 * (x4 - x5) + 128) >> 8
 
 	// Stage 4
 	// Compute all unshifted adds and subs first
@@ -756,7 +548,7 @@ full_idct_row:
 	VPSUBD Y1, Y5, Y9   // temp_s7 = x7 - x1
 
 	// Now shift in order to avoid overwrites
-	VPSRAD $8, Y4, Y6  // s[6] = temp_s6 >> 8  (shift s6 first to free Y4 if needed, but not)
+	VPSRAD $8, Y4, Y6  // s[6] = temp_s6 >> 8
 	VPSRAD $8, Y0, Y4  // s[4] = temp_s4 >> 8
 	VPSRAD $8, Y2, Y5  // s[5] = temp_s5 >> 8
 	VPSRAD $8, Y9, Y7  // s[7] = temp_s7 >> 8
@@ -770,53 +562,66 @@ full_idct_row:
 // 1D IDCT core for columns (input in Y0-Y7, output in Y0-Y7)
 TEXT ·idctColCoreAVX2(SB), NOSPLIT, $0
 	// Prescale
-	VPSLLD  $8, Y0, Y8                // y0 = (s[0] << 8) + 8192
-	VPADDD  ·const_8192<>(SB), Y8, Y8
-	VPSLLD  $8, Y4, Y9                // y1 = s[4] << 8
-	VMOVDQA Y6, Y10                   // y2 = s[6]
-	VMOVDQA Y2, Y11                   // y3 = s[2]
-	VMOVDQA Y1, Y12                   // y4 = s[1]
-	VMOVDQA Y7, Y13                   // y5 = s[7]
-	VMOVDQA Y5, Y14                   // y6 = s[5]
-	VMOVDQA Y3, Y15                   // y7 = s[3]
+	VPSLLD       $8, Y0, Y8            // y0 = (s[0] << 8) + 8192
+	VPBROADCASTD ·const_8192<>(SB), Y0
+	VPADDD       Y0, Y8, Y8
+	VPSLLD       $8, Y4, Y9            // y1 = s[4] << 8
+	VMOVDQA      Y6, Y10               // y2 = s[6]
+	VMOVDQA      Y2, Y11               // y3 = s[2]
+	VMOVDQA      Y1, Y12               // y4 = s[1]
+	VMOVDQA      Y7, Y13               // y5 = s[7]
+	VMOVDQA      Y5, Y14               // y6 = s[5]
+	VMOVDQA      Y3, Y15               // y7 = s[3]
 
 	// Stage 1
-	VPADDD  Y12, Y13, Y0
-	VPMULLD ·w7<>(SB), Y0, Y0
-	VPADDD  ·const_4<>(SB), Y0, Y0
-	VPMULLD ·w1_minus_w7<>(SB), Y12, Y1
-	VPADDD  Y1, Y0, Y1
-	VPSRAD  $3, Y1, Y12                 // y4
-	VPMULLD ·w1_plus_w7<>(SB), Y13, Y1
-	VPSUBD  Y1, Y0, Y1
-	VPSRAD  $3, Y1, Y13                 // y5
+	VPADDD       Y12, Y13, Y0
+	VPBROADCASTD ·w7<>(SB), Y1
+	VPMULLD      Y1, Y0, Y0
+	VPBROADCASTD ·const_4<>(SB), Y1
+	VPADDD       Y1, Y0, Y0
+	VPBROADCASTD ·w1_minus_w7<>(SB), Y1
+	VPMULLD      Y1, Y12, Y1
+	VPADDD       Y1, Y0, Y1
+	VPSRAD       $3, Y1, Y12            // y4
+	VPBROADCASTD ·w1_plus_w7<>(SB), Y1
+	VPMULLD      Y1, Y13, Y1
+	VPSUBD       Y1, Y0, Y1
+	VPSRAD       $3, Y1, Y13            // y5
 
-	VPADDD  Y14, Y15, Y0
-	VPMULLD ·w3<>(SB), Y0, Y0
-	VPADDD  ·const_4<>(SB), Y0, Y0
-	VPMULLD ·w3_minus_w5<>(SB), Y14, Y1
-	VPSUBD  Y1, Y0, Y1
-	VPSRAD  $3, Y1, Y14                 // y6
-	VPMULLD ·w3_plus_w5<>(SB), Y15, Y1
-	VPSUBD  Y1, Y0, Y1
-	VPSRAD  $3, Y1, Y15                 // y7
+	VPADDD       Y14, Y15, Y0
+	VPBROADCASTD ·w3<>(SB), Y1
+	VPMULLD      Y1, Y0, Y0
+	VPBROADCASTD ·const_4<>(SB), Y1
+	VPADDD       Y1, Y0, Y0
+	VPBROADCASTD ·w3_minus_w5<>(SB), Y1
+	VPMULLD      Y1, Y14, Y1
+	VPSUBD       Y1, Y0, Y1
+	VPSRAD       $3, Y1, Y14            // y6
+	VPBROADCASTD ·w3_plus_w5<>(SB), Y1
+	VPMULLD      Y1, Y15, Y1
+	VPSUBD       Y1, Y0, Y1
+	VPSRAD       $3, Y1, Y15            // y7
 
 	// Stage 2
-	VPADDD  Y8, Y9, Y0                  // y8 = y0 + y1
-	VPSUBD  Y9, Y8, Y8                  // y0 = y0 - y1
-	VPADDD  Y11, Y10, Y1
-	VPMULLD ·w6<>(SB), Y1, Y1
-	VPADDD  ·const_4<>(SB), Y1, Y1
-	VPMULLD ·w2_plus_w6<>(SB), Y10, Y2
-	VPSUBD  Y2, Y1, Y2
-	VPSRAD  $3, Y2, Y10                 // y2
-	VPMULLD ·w2_minus_w6<>(SB), Y11, Y2
-	VPADDD  Y1, Y2, Y2
-	VPSRAD  $3, Y2, Y11                 // y3
-	VPADDD  Y12, Y14, Y1                // y1 = y4 + y6
-	VPSUBD  Y14, Y12, Y2                // y4 = y4 - y6
-	VPADDD  Y13, Y15, Y3                // y6 = y5 + y7
-	VPSUBD  Y15, Y13, Y4                // y5 = y5 - y7
+	VPADDD       Y8, Y9, Y0             // y8 = y0 + y1
+	VPSUBD       Y9, Y8, Y8             // y0 = y0 - y1
+	VPADDD       Y11, Y10, Y1
+	VPBROADCASTD ·w6<>(SB), Y2
+	VPMULLD      Y2, Y1, Y1
+	VPBROADCASTD ·const_4<>(SB), Y2
+	VPADDD       Y2, Y1, Y1
+	VPBROADCASTD ·w2_plus_w6<>(SB), Y2
+	VPMULLD      Y2, Y10, Y2
+	VPSUBD       Y2, Y1, Y2
+	VPSRAD       $3, Y2, Y10            // y2
+	VPBROADCASTD ·w2_minus_w6<>(SB), Y2
+	VPMULLD      Y2, Y11, Y2
+	VPADDD       Y1, Y2, Y2
+	VPSRAD       $3, Y2, Y11            // y3
+	VPADDD       Y12, Y14, Y1           // y1 = y4 + y6
+	VPSUBD       Y14, Y12, Y2           // y4 = y4 - y6
+	VPADDD       Y13, Y15, Y3           // y6 = y5 + y7
+	VPSUBD       Y15, Y13, Y4           // y5 = y5 - y7
 
 	// Stage 3
 	VPADDD Y0, Y11, Y5 // y7 = y8 + y3
@@ -824,14 +629,18 @@ TEXT ·idctColCoreAVX2(SB), NOSPLIT, $0
 	VPADDD Y8, Y10, Y7 // y3 = y0 + y2
 	VPSUBD Y10, Y8, Y8 // y0 = y0 - y2
 
-	VPADDD  Y2, Y4, Y9
-	VPMULLD ·r2<>(SB), Y9, Y9
-	VPADDD  ·const_128<>(SB), Y9, Y9
-	VPSRAD  $8, Y9, Y10              // y2 = (r2 * (y4 + y5) + 128) >> 8
-	VPSUBD  Y4, Y2, Y9
-	VPMULLD ·r2<>(SB), Y9, Y9
-	VPADDD  ·const_128<>(SB), Y9, Y9
-	VPSRAD  $8, Y9, Y11              // y4 = (r2 * (y4 - y5) + 128) >> 8
+	VPADDD       Y2, Y4, Y9
+	VPBROADCASTD ·r2<>(SB), Y10
+	VPMULLD      Y10, Y9, Y9
+	VPBROADCASTD ·const_128<>(SB), Y10
+	VPADDD       Y10, Y9, Y9
+	VPSRAD       $8, Y9, Y10           // y2 = (r2 * (y4 + y5) + 128) >> 8
+	VPSUBD       Y4, Y2, Y9
+	VPBROADCASTD ·r2<>(SB), Y0
+	VPMULLD      Y0, Y9, Y9
+	VPBROADCASTD ·const_128<>(SB), Y0
+	VPADDD       Y0, Y9, Y9
+	VPSRAD       $8, Y9, Y11           // y4 = (r2 * (y4 - y5) + 128) >> 8
 
 	// Stage 4
 	// Compute all unshifted adds and subs first
